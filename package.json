@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is backend for my site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshay11168/backend.git"
+  },
+  "author": "akshay biradar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshay11168/backend/issues"
+  },
+  "homepage": "https://github.com/akshay11168/backend#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  }
+}
